@@ -1,5 +1,5 @@
 # Reports
-Portfolio of report submissions
+Portfolio of graduate reports and projects
 
 ## [RJMCMC](https://github.com/elisesdixon/Reports/blob/main/RJMCMC.pdf)
 Demonstrates application of Reversible Jump MCMC in high-dimensional model selection and parameter estimation
