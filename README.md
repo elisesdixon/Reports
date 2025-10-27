@@ -1,7 +1,7 @@
 # Reports
 Portfolio of graduate reports and projects
 
-## [RJMCMC](https://github.com/elisesdixon/Reports/blob/main/RJMCMC.pdf)
+## [RJMCMC Simulation Paper](https://github.com/elisesdixon/Reports/blob/main/RJMCMC%20Simulation%20Paper.pdf)
 Demonstrates application of Reversible Jump MCMC in high-dimensional model selection and parameter estimation
 
 ## [Facial Recognition](https://github.com/elisesdixon/Reports/blob/main/Facial%20Recognition.pdf)
